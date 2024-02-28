@@ -1,2 +1,2 @@
-# ComfyUI-FaceSwap-IMG-VID
+# ComfyUI-Reactor-Workflow
 Workflow used in this video:
